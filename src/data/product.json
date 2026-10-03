@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1, 
+        "title": "Худи no name", 
+        "description": "Самое крутое, за бренд не знаю", 
+        "price": "1300",
+        "url": "https://i.pinimg.com/1200x/b5/ae/38/b5ae388d1adb936db136b95691b905d2.jpg"
+    },
+    {
+        "id": 2,  
+        "title": "Худи Supreme", 
+        "description": "Культовый бренд, по-этому плати много", 
+        "price": "321312",
+        "url": "https://i.pinimg.com/1200x/f8/d1/fe/f8d1fede0d4361ba2d595de0804c2b08.jpg"
+    }
+]

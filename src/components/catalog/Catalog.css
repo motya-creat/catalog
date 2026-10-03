@@ -1,0 +1,10 @@
+.catalog-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.container-wrap {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
