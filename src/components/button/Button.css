@@ -3,6 +3,9 @@ button {
     border-radius: 1.5rem;
     background-color: #ffffff00;
     transition: .3s;
+    padding: 10px;
+    width: 100%;
+    font-weight: 700;
 }
 button:hover {
     background-color: #313131;

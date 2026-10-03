@@ -1,3 +1,21 @@
 @import url(./components/card/Card.css);
 @import url(./components/catalog/Catalog.css);
 @import url(./components/button/Button.css);
+@import url(./components/modal/Modal.css);
+
+* {
+    font-family: sans-serif;
+}
+
+.active {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+
+}

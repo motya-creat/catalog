@@ -12,5 +12,26 @@
         "description": "Культовый бренд, по-этому плати много", 
         "price": "321312",
         "url": "https://i.pinimg.com/1200x/f8/d1/fe/f8d1fede0d4361ba2d595de0804c2b08.jpg"
+    },
+    {
+        "id": 3,  
+        "title": "Худи белое", 
+        "description": "Обычное белое худи", 
+        "price": "12000",
+        "url": "https://avatars.mds.yandex.net/i?id=585bf1134b32447b840ee11810bf23ced42b03c2-4292030-images-thumbs&n=13"
+    },
+    {
+        "id": 4,  
+        "title": "Худи розовое", 
+        "description": "Обычное розовое худи", 
+        "price": "12000",
+        "url": "https://png.pngtree.com/png-vector/20250117/ourmid/pngtree-blank-pink-hoodie-mockup-on-white-background-png-image_15237803.png"
+    },
+    {
+        "id": 5,  
+        "title": "Худи Зеленое", 
+        "description": "Обычное зеленое худи", 
+        "price": "12000",
+        "url": "https://avatars.mds.yandex.net/i?id=1f641abd86e559519f28d7ce42162fb4_l-4560333-images-thumbs&n=13"
     }
 ]

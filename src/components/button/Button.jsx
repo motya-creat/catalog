@@ -1,7 +1,7 @@
-function Button({text}) {
+function Button({text, onClick}) {
     return (
         <>
-            <button>
+            <button onClick={onClick}>
                 {text ? text : "Купить" }
             </button>
         </>
